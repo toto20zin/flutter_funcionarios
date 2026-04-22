@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Souza",
+    "cargo": "Atendente",
+    "salario": 1850.50,
+    "img":"https://thumbs.dreamstime.com/b/ícone-de-avatar-moderno-minimalista-e-plano-conceito-negócio-comunicação-global-perfil-utilizador-site-redes-sociais-rede-433191082.jpg",
+    "dataContatacao": "2022-03-15"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Pereira",
+    "cargo": "Lavador",
+    "salario": 2100.00,
+    "img":"https://thumbs.dreamstime.com/b/empresário-trabalhando-no-perfil-de-empresa-avatar-ícone-do-líder-símbolo-conta-pessoas-desenho-e-ilustração-vetor-silhueta-273583364.jpg",
+    "dataContatacao": "2021-11-02"
+  },
+  {
+    "id": 3,
+    "nome": "Fernanda Lima",
+    "cargo": "Passadeira",
+    "salario": 1950.75,
+    "img":"https://thumbs.dreamstime.com/b/retrato-de-mulher-negra-e-orgulhosa-funcion%C3%A1ria-corporativa-em-est%C3%BAdio-confiante-sorria-fundo-branco-face-enfrentem-mulheres-267356531.jpg",
+    "dataContatacao": "2023-01-20"
+  },
+  {
+    "id": 4,
+    "nome": "João Batista",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "img":"https://thumbs.dreamstime.com/b/perfil-de-avatar-homem-ícone-da-silhueta-do-rosto-masculino-ilustração-vetor-isolado-eps-297213080.jpg",
+    "dataContatacao": "2020-08-10"
+  },
+  {
+    "id": 5,
+    "nome": "Aline Rocha",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1700.00,
+    "img":"https://img.freepik.com/vetores-premium/ilustracao-vetorial-policial-policial-policia-policia-lei-seguranca-uniforme-patrulha-aplicacao_1013341-141655.jpg",
+    "dataContatacao": "2024-02-05"
+  },
+  {
+    "id": 6,
+    "nome": "Ricardo Alves",
+    "cargo": "Motorista",
+    "salario": 2200.30,
+    "img":"https://cdn-icons-png.flaticon.com/512/11320/11320006.png",
+    "dataContatacao": "2022-07-18"
+  },
+  {
+    "id": 7,
+    "nome": "Patrícia Gomes",
+    "cargo": "Atendente",
+    "salario": 1820.00,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh1hvCdc9378X-PjUtmWd3Ugdh-YRdDiZEg&s",
+    "dataContatacao": "2023-06-12"
+  },
+  {
+    "id": 8,
+    "nome": "Eduardo Martins",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2800.90,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRm5rmllGOxLkjtZdRcaXmaS0Vfas9SEeYQ&s",
+    "dataContatacao": "2021-04-25"
+  },
+  {
+    "id": 9,
+    "nome": "Juliana Freitas",
+    "cargo": "Passadeira",
+    "salario": 2000.00,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_6jWuTkJDmCHR0yHFGF5ijIt4xiYJqDY1g&s",
+    "dataContatacao": "2022-09-30"
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Ribeiro",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1750.60,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHOU2Ao5y85EW82Bi1JebT0V29ed8W2YETg&s",
+    "dataContatacao": "2024-05-14"
+  }
+]
